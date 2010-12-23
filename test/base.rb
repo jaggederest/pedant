@@ -23,7 +23,6 @@ class ReturnsTest < Test::Unit::TestCase
 
 end
 
-
 class Foo
   include Pedant::Returns
   def should_fail
