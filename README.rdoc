@@ -4,7 +4,7 @@ License:: MIT License
 
 = Pedant
 
-Enforce return values by type and with user-defined guards.
+Enforce argument and return values by type and with user-defined guards.
 
 == Installation
 
